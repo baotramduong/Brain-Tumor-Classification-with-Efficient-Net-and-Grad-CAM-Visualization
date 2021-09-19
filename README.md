@@ -14,11 +14,11 @@
 
 ## Modeling
 
-### Model Architect
-
 ### Model Evaluation
 
 <img src = '../main/Data & Images/acc_loss_curve.png' />
+
+<img src = '../main/Data & Images/cm.png' />
 
 ## Prediction
 
