@@ -22,6 +22,9 @@
 
 ## Prediction
 
+
+<img src = '../main/Data & Images/prediction.png' />
+
 ## Future Work
 
 ## Reference
