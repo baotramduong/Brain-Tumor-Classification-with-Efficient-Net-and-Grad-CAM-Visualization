@@ -2,7 +2,7 @@
 
 ## Blog
 
-[Medium Blog]()
+[Medium Blog](https://baotramduong.medium.com/explainable-ai-brain-tumor-classification-with-efficientnet-and-gradient-weighted-class-activation-24c57ae6175d)
 
 ## Introduction
 
